@@ -20,7 +20,7 @@ Filter books by rating:
 <!--start:bookshelf-action-->
 ### ⌛ Currently reading (1)
 
-[![The Anthropocene Reviewed](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DZPD4DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/AnandChowdhary/books/issues/76 "The Anthropocene Reviewed by John Green")
+[![The Anthropocene Reviewed](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DZPD4DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/3 "La Divina Comedia")
 
 
 ### ✅ Completed (0)
