@@ -1,2 +1,32 @@
 [
+  {
+    "title": "La Divina Comedia",
+    "authors": [
+      "Dante Alighieri"
+    ],
+    "publisher": "Penguin Classics",
+    "publishedDate": "1320", 
+    "description": "La Divina Comedia es una de las obras maestras de la literatura universal escrita por Dante Alighieri en el siglo XIV. Dividida en tres partes: Infierno, Purgatorio y Paraíso, esta obra es una alegoría de la vida espiritual y un profundo viaje a través del alma humana. A través de un lenguaje sublime y un simbolismo complejo, Dante explora temas de justicia divina, redención y amor eterno.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dante_Divina_Commedia_Gustave_Dore.jpg/800px-Dante_Divina_Commedia_Gustave_Dore.jpg",
+    "language": "it",
+    "averageRating": 5,
+    "ratingsCount": 10234,
+    "categories": [
+      "Literary Classics",
+      "Epic Poetry"
+    ],
+    "pageCount": 798,
+    "isbn10": "0140448956",
+    "isbn13": "9780140448955",
+    "googleBooks": {
+      "id": "xVtxkAEACAAJ",
+      "preview": "http://books.google.com/books?id=xVtxkAEACAAJ&dq=intitle:La+Divina+Comedia+by+Dante+Alighieri",
+      "info": "https://play.google.com/store/books/details?id=xVtxkAEACAAJ",
+      "canonical": "https://play.google.com/store/books/details?id=xVtxkAEACAAJ"
+    },
+    "issueNumber": null,
+    "progressPercent": 0,
+    "state": "not started",
+    "startedAt": null
+  }
 ]
