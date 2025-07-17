@@ -5,6 +5,8 @@ on:
 jobs:
   bookshelf-action:
     name: Bookshelf Action
+    permissions:
+      issues: write
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
