@@ -22,11 +22,8 @@
     },
     "issueNumber": 42,
     "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2025-07-18T20:40:16.000Z",
-    "completedAt": "2025-07-18T20:40:48.000Z",
-    "timeToComplete": 32000,
-    "timeToCompleteFormatted": "32 seconds"
+    "state": "want-to-read",
+    "startedAt": "2025-07-18T20:40:16.000Z"
   },
   {
     "title": "El Ciclo de la Puerta de la Muerte no 04/07 El mago de la serpiente",

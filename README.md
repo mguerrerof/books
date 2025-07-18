@@ -20,9 +20,8 @@ Rating:
 
 [![La caída de los gigantes (The Century 1)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D3zhv1DcM51kC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/12 "La caída de los gigantes (The Century 1) by Ken Follett")
 
-### ✅ Completed (15)
+### ✅ Completed (14)
 
-[![Aprendiz de asesino](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DRfRnEQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/42 "Aprendiz de asesino by Robin Hobb completed in 32 seconds on July 2025")
 [![El Ciclo de la Puerta de la Muerte no 04/07 El mago de la serpiente](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D9ZUgEQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/41 "El Ciclo de la Puerta de la Muerte no 04/07 El mago de la serpiente by Margaret Weis / Tracy Hickman completed in 37 seconds on July 2025")
 [![La divina comedia](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DerljoOXuPrIC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/40 "La divina comedia by Dante Alighieri completed in 37 seconds on July 2025")
 [![El último argumento de los reyes [Edición ilustrada]](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DCqnYEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/39 "El último argumento de los reyes [Edición ilustrada] by Joe Abercrombie completed in 2 minutes on July 2025")
@@ -38,8 +37,9 @@ Rating:
 [![El camino de los reyes (El Archivo de las Tormentas 1)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DYhCYCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/22 "El camino de los reyes (El Archivo de las Tormentas 1) by Brandon Sanderson completed in 54 seconds on July 2025")
 [![Viento y verdad (El Archivo de las Tormentas 5)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DgWEnEQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/20 "Viento y verdad (El Archivo de las Tormentas 5) by Brandon Sanderson completed in 1 minute on July 2025")
 
-### ⏭️ Want to Read (1)
+### ⏭️ Want to Read (2)
 
+[![Aprendiz de asesino](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DRfRnEQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/42 "Aprendiz de asesino by Robin Hobb completed in undefined on Invalid Date")
 [![The Devils](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D8_QRzwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/21 "The Devils by Joe Abercrombie completed in undefined on Invalid Date")
 
 <!--end:bookshelf-action-->
