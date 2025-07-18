@@ -6,8 +6,6 @@ jobs:
   bookshelf-action:
     name: Bookshelf Action
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4.2.2
@@ -20,13 +18,3 @@ jobs:
           command: "onNewIssue"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Delay for 10 seconds
-        if: github.repository == 'AnandChowdhary/books'
-        run: sleep 10
-      - name: Dispatch AnandChowdhary/everything update
-        if: github.repository == 'AnandChowdhary/books'
-        uses: benc-uk/workflow-dispatch@v1.2.2
-        with:
-          repo: AnandChowdhary/everything
-          workflow: api.yml
-          token: ${{ secrets.WORKFLOW_DISPATCH_TOKEN }}
