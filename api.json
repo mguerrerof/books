@@ -1,5 +1,35 @@
 [
   {
+    "title": "La voz de las espadas [Edición ilustrada]",
+    "authors": [
+      "Joe Abercrombie"
+    ],
+    "publisher": "Alianza Editorial",
+    "publishedDate": "2021-11-25",
+    "description": "La primera novela publicada de Joe Abercrombie, ya un clásico indiscutible, en una edición espectacular ilustrada por Alejandro Colucci. Tanto para reencontrarte con los míticos personajes de Abercrombie -Glokta, Nuevededos el Sanguinario, Bayaz, Ardee...- como si es tu primera incursión en el mundo de La Primera Ley, este es el libro que estabas esperando.",
+    "image": "http://books.google.com/books/content?id=QN1GEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "es",
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 700,
+    "isbn10": "8413625793",
+    "isbn13": "9788413625799",
+    "googleBooks": {
+      "id": "QN1GEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=QN1GEAAAQBAJ&printsec=frontcover&dq=intitle:La+voz+de+las+espadas&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=QN1GEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=QN1GEAAAQBAJ"
+    },
+    "issueNumber": 36,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-07-18T15:58:14.000Z",
+    "completedAt": "2025-07-18T15:59:39.000Z",
+    "timeToComplete": 85000,
+    "timeToCompleteFormatted": "1 minute"
+  },
+  {
     "title": "La armadura de la luz (Saga Los pilares de la Tierra 4)",
     "authors": [
       "Ken Follett"
@@ -28,33 +58,6 @@
     "completedAt": "2025-07-18T15:59:28.000Z",
     "timeToComplete": 117000,
     "timeToCompleteFormatted": "1 minute"
-  },
-  {
-    "title": "La voz de las espadas [Edición ilustrada]",
-    "authors": [
-      "Joe Abercrombie"
-    ],
-    "publisher": "Alianza Editorial",
-    "publishedDate": "2021-11-25",
-    "description": "La primera novela publicada de Joe Abercrombie, ya un clásico indiscutible, en una edición espectacular ilustrada por Alejandro Colucci. Tanto para reencontrarte con los míticos personajes de Abercrombie -Glokta, Nuevededos el Sanguinario, Bayaz, Ardee...- como si es tu primera incursión en el mundo de La Primera Ley, este es el libro que estabas esperando.",
-    "image": "http://books.google.com/books/content?id=QN1GEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "es",
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 700,
-    "isbn10": "8413625793",
-    "isbn13": "9788413625799",
-    "googleBooks": {
-      "id": "QN1GEAAAQBAJ",
-      "preview": "http://books.google.com/books?id=QN1GEAAAQBAJ&printsec=frontcover&dq=intitle:La+voz+de+las+espadas&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=QN1GEAAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=QN1GEAAAQBAJ"
-    },
-    "issueNumber": 36,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-07-18T15:58:14.000Z"
   },
   {
     "title": "El Hombre Iluminado",
