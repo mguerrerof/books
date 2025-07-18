@@ -1,5 +1,31 @@
 [
   {
+    "title": "The Devils",
+    "authors": [
+      "Joe Abercrombie"
+    ],
+    "publisher": "Gollancz",
+    "publishedDate": "2025-05-06",
+    "image": "http://books.google.com/books/content?id=8_QRzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 0,
+    "isbn10": "1399603574",
+    "isbn13": "9781399603577",
+    "googleBooks": {
+      "id": "8_QRzwEACAAJ",
+      "preview": "http://books.google.com/books?id=8_QRzwEACAAJ&dq=intitle:the+devils+joe+abercrombie+2025&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=8_QRzwEACAAJ&dq=intitle:the+devils+joe+abercrombie+2025&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Devils.html?hl=&id=8_QRzwEACAAJ"
+    },
+    "issueNumber": 21,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2025-07-18T10:01:47.000Z"
+  },
+  {
     "title": "Viento y verdad (El Archivo de las Tormentas 5)",
     "authors": [
       "Brandon Sanderson"
