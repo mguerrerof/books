@@ -1,5 +1,35 @@
 [
   {
+    "title": "El Ciclo de la Puerta de la Muerte no 04/07 El mago de la serpiente",
+    "authors": [
+      "Margaret Weis / Tracy Hickman"
+    ],
+    "publisher": "Minotauro",
+    "publishedDate": "2024-10-30",
+    "description": "Sigue esta saga de fantasía épica imprescindible. Haplo, el patryn, cruza una vez más la Puerta de la Muerte para continuar la exploración de los mundos en que los sartán, hace milenios, dividieron el universo original. Enviado para preparar la venida del Señor del Nexo, Haplo viaja en esta ocasión a Chelestra, el mundo del agua, donde una serie de islas sumergidas flota en torno a un sol interior. Éste es un lugar donde humanos, elfos y enanos han aprendido a vivir en paz y han colaborado mucho tiempo en la construcción de naves que los lleven a lugar seguro cuando el sol se aleje demasiado de la luna-isla donde habitan. Pero la aparición de unas gigantescas serpientes dragón amenaza no sólo su paz sino su propia supervivencia. Mientras Haplo se une a la lucha contra las serpientes, Alfred, el sartán, encuentra por fin a sus antepasados, refugiados durante mucho tiempo y sumidos en un profundo sueño bajo las aguas de Chelestra. En el titánico conflicto que se desencadena participarán por igual mortales e inmortales, junto a otras fuerzas misteriosas para todos ellos. El vencedor controlará no sólo Chelestra, sino tal vez la propia Puerta de la Muerte.",
+    "image": "http://books.google.com/books/content?id=9ZUgEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "es",
+    "categories": [
+      "Juvenile Fiction"
+    ],
+    "pageCount": 524,
+    "isbn10": "8445019309",
+    "isbn13": "9788445019306",
+    "googleBooks": {
+      "id": "9ZUgEQAAQBAJ",
+      "preview": "http://books.google.com/books?id=9ZUgEQAAQBAJ&printsec=frontcover&dq=intitle:El+Ciclo+de+la+Puerta+de+la+Muerte+no+04/07+El+mago+de+la+serpiente&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=9ZUgEQAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=9ZUgEQAAQBAJ"
+    },
+    "issueNumber": 41,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-07-18T20:37:07.000Z",
+    "completedAt": "2025-07-18T20:37:44.000Z",
+    "timeToComplete": 37000,
+    "timeToCompleteFormatted": "37 seconds"
+  },
+  {
     "title": "La divina comedia",
     "authors": [
       "Dante Alighieri"
