@@ -8,6 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       issues: write
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4.2.2
