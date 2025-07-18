@@ -1,5 +1,35 @@
 [
   {
+    "title": "La armadura de la luz (Saga Los pilares de la Tierra 4)",
+    "authors": [
+      "Ken Follett"
+    ],
+    "publisher": "PLAZA & JANÉS",
+    "publishedDate": "2023-09-26",
+    "description": "Vuelve el mejor Follett con la emocionante quinta entrega de la saga «Los pilares de la Tierra». El choque de progreso y tradición y una guerra que amenaza con engullir toda Europa en la más ambiciosa y épica novela del maestro de la ficción histórica. La revolución está en el aire 1792. Un gobierno despótico está decidido a convertir Inglaterra en un poderoso imperio comercial. Y, desde el otro lado del mar, suenan tambores de guerra mientras Napoleón Bonaparte comienza su ascenso al poder y prepara un violento plan para convertirse en emperador del mundo. Kingsbridge se asoma al abismo Los nuevos avances industriales se imponen de manera implacable, sacudiendo las vidas de los trabajadores de las prósperas fábricas textiles de Kingsbridge. Las máquinas abren un mundo de oportunidades ligado, sin embargo, a la crueldad más despiadada. Una nueva tiranía surge en el horizonte Y a medida que el estallido de un conflicto parece cada vez más cerca, la historia de un pequeño grupo de personas -la decidida hilandera Sal Clitheroe, el idealista David Shoveller y Kit, el brillante hijo de Sal- se convertirá en el símbolo de la lucha de toda una generación que desea progresar y pelea por un futuro sin opresión... Sobra la saga «Los pilares de la Tierra» han dicho: «Sigo envidiando como el primer día la capacidad de Follett para entretener. Sus tramas funcionan siempre y te mantiene pegado a cada página». Juan Gómez Jurado, ABC «Fantástico desde todos los puntos de vista». El Mundo «Follett es un maestro». The Washington Post «Una obra que destaca como un triunfo del esfuerzo y la profesionalidad». The Guardian «No hay rincón sin sorpresa ni página tediosa». Qué leer «Sus libros crean adicción. No se leen. Se devoran». La Voz de Asturias",
+    "image": "http://books.google.com/books/content?id=tae_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "es",
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 961,
+    "isbn10": "8401032555",
+    "isbn13": "9788401032554",
+    "googleBooks": {
+      "id": "tae_EAAAQBAJ",
+      "preview": "http://books.google.com/books?id=tae_EAAAQBAJ&pg=PT865&dq=intitle:La+armadura+de+la+luz+(Saga+Los+pilares+de+la+Tierra+4)&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=tae_EAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=tae_EAAAQBAJ"
+    },
+    "issueNumber": 35,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-07-18T15:57:31.000Z",
+    "completedAt": "2025-07-18T15:59:28.000Z",
+    "timeToComplete": 117000,
+    "timeToCompleteFormatted": "1 minute"
+  },
+  {
     "title": "La voz de las espadas [Edición ilustrada]",
     "authors": [
       "Joe Abercrombie"
@@ -25,33 +55,6 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2025-07-18T15:58:14.000Z"
-  },
-  {
-    "title": "La armadura de la luz (Saga Los pilares de la Tierra 4)",
-    "authors": [
-      "Ken Follett"
-    ],
-    "publisher": "PLAZA & JANÉS",
-    "publishedDate": "2023-09-26",
-    "description": "Vuelve el mejor Follett con la emocionante quinta entrega de la saga «Los pilares de la Tierra». El choque de progreso y tradición y una guerra que amenaza con engullir toda Europa en la más ambiciosa y épica novela del maestro de la ficción histórica. La revolución está en el aire 1792. Un gobierno despótico está decidido a convertir Inglaterra en un poderoso imperio comercial. Y, desde el otro lado del mar, suenan tambores de guerra mientras Napoleón Bonaparte comienza su ascenso al poder y prepara un violento plan para convertirse en emperador del mundo. Kingsbridge se asoma al abismo Los nuevos avances industriales se imponen de manera implacable, sacudiendo las vidas de los trabajadores de las prósperas fábricas textiles de Kingsbridge. Las máquinas abren un mundo de oportunidades ligado, sin embargo, a la crueldad más despiadada. Una nueva tiranía surge en el horizonte Y a medida que el estallido de un conflicto parece cada vez más cerca, la historia de un pequeño grupo de personas -la decidida hilandera Sal Clitheroe, el idealista David Shoveller y Kit, el brillante hijo de Sal- se convertirá en el símbolo de la lucha de toda una generación que desea progresar y pelea por un futuro sin opresión... Sobra la saga «Los pilares de la Tierra» han dicho: «Sigo envidiando como el primer día la capacidad de Follett para entretener. Sus tramas funcionan siempre y te mantiene pegado a cada página». Juan Gómez Jurado, ABC «Fantástico desde todos los puntos de vista». El Mundo «Follett es un maestro». The Washington Post «Una obra que destaca como un triunfo del esfuerzo y la profesionalidad». The Guardian «No hay rincón sin sorpresa ni página tediosa». Qué leer «Sus libros crean adicción. No se leen. Se devoran». La Voz de Asturias",
-    "image": "http://books.google.com/books/content?id=tae_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "es",
-    "categories": [
-      "Fiction"
-    ],
-    "pageCount": 961,
-    "isbn10": "8401032555",
-    "isbn13": "9788401032554",
-    "googleBooks": {
-      "id": "tae_EAAAQBAJ",
-      "preview": "http://books.google.com/books?id=tae_EAAAQBAJ&pg=PT865&dq=intitle:La+armadura+de+la+luz+(Saga+Los+pilares+de+la+Tierra+4)&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=tae_EAAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=tae_EAAAQBAJ"
-    },
-    "issueNumber": 35,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-07-18T15:57:31.000Z"
   },
   {
     "title": "El Hombre Iluminado",
