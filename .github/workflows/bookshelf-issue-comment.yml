@@ -6,6 +6,8 @@ jobs:
   bookshelf-action:
     name: Bookshelf Action
     runs-on: ubuntu-latest
+    permissions:
+      issues: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4.2.2
