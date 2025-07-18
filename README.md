@@ -18,8 +18,10 @@ Filter books by rating:
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (1)
+### ⌛ Currently reading (3)
 
+[![La voz de las espadas [Edición ilustrada]](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DQN1GEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/36 "La voz de las espadas [Edición ilustrada] by Joe Abercrombie")
+[![La armadura de la luz (Saga Los pilares de la Tierra 4)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dtae_EAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/35 "La armadura de la luz (Saga Los pilares de la Tierra 4) by Ken Follett")
 [![La caída de los gigantes (The Century 1)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D3zhv1DcM51kC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/12 "La caída de los gigantes (The Century 1) by Ken Follett")
 
 ### ✅ Completed (8)
