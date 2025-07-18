@@ -1,5 +1,34 @@
 [
   {
+    "title": "El Ritmo de la Guerra (El Archivo de las Tormentas 4)",
+    "authors": [
+      "Brandon Sanderson"
+    ],
+    "publisher": "NOVA",
+    "publishedDate": "2020-11-19",
+    "description": "El Ritmo de la Guerra es la esperada cuarta parte de la decalogía «El Archivo de las Tormentas» y el libro que continúa la historia de El camino de los reyes, Palabras radiantes y Juramentada. Hay secretos que hemos guardado mucho tiempo. Vigilantes. Insomnes. Eternos. Y pronto dejarán de ser nuestros. La Una que es Tres busca, sin saberlo, el alma capturada. El spren aprisionado, olvidado hace mucho tiempo. ¿Puede liberar su propia alma a tiempo de hallar el conocimiento que condena a todos los pueblos de Roshar? El Soldado Caído acaricia y ama la lanza, incluso mientras el arma hiende su propia carne. Camina siempre hacia delante, siempre hacia la oscuridad, sin luz. No puede llevar consigo a nadie, salvo aquello que él mismo puede avivar. La Hermana Derrumbada comprende sus errores y piensa que ella misma es un error. Parece muy alejada de sus antepasados, pero no comprende que son quienes la llevan a hombros. Hacia la victoria, y hacia ese silencio, el más importante de todos. Y la Madre de Máquinas, la más crucial de todos ellos, danza con mentirosos en un gran baile. Debe desenmascararlos, alcanzar sus verdades ocultas y entregarlas al mundo. Tiene que reconocer que las peores mentiras son las que se cuenta a sí misma. Si lo hace, nuestros secretos por fin se convertirán en verdades. La crítica ha dicho: «Me encantó este libro... ¿Qué más puedo decir?» Patrick Rothfuss sobre El camino de los reyes «Un clásico de Sanderson.» Publishers Weekly sobre Juramentada",
+    "image": "http://books.google.com/books/content?id=NFfuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "es",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 1885,
+    "isbn10": "8417347968",
+    "isbn13": "9788417347963",
+    "googleBooks": {
+      "id": "NFfuDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=NFfuDwAAQBAJ&printsec=frontcover&dq=intitle:El+ritmo+de+la+guerra&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=NFfuDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=NFfuDwAAQBAJ"
+    },
+    "issueNumber": 27,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2025-07-18T15:43:06.000Z"
+  },
+  {
     "title": "Juramentada (El Archivo de las Tormentas 3)",
     "authors": [
       "Brandon Sanderson"
