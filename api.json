@@ -1,5 +1,35 @@
 [
   {
+    "title": "Antes de que los cuelguen [Edición ilustrada]",
+    "authors": [
+      "Joe Abercrombie"
+    ],
+    "publisher": "Alianza Editorial",
+    "publishedDate": "2022-11-24",
+    "description": "Continuamos con el proyecto de ediciones ilustradas de las novelas de Joe Abercrombie. Tras La voz de las espadas, con las espectaculares ilustraciones de Alejandro Colucci, llega el segundo volumen de la trilogía de La Primera Ley: la apasionante Antes de que los cuelguen, a cargo del extraordinario artista David Benzal. La mejor fantasía en ediciones preciosas y cuidadas que te van a acompañar por mucho tiempo.",
+    "image": "http://books.google.com/books/content?id=mK2TEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "es",
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 715,
+    "isbn10": "8411480747",
+    "isbn13": "9788411480741",
+    "googleBooks": {
+      "id": "mK2TEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=mK2TEAAAQBAJ&printsec=frontcover&dq=intitle:Antes+de+que+los+cuelguen+%5BEdici%C3%B3n+ilustrada%5D&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=mK2TEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=mK2TEAAAQBAJ"
+    },
+    "issueNumber": 38,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-07-18T20:24:37.000Z",
+    "completedAt": "2025-07-18T20:26:39.000Z",
+    "timeToComplete": 122000,
+    "timeToCompleteFormatted": "2 minutes"
+  },
+  {
     "title": "La voz de las espadas [Edición ilustrada]",
     "authors": [
       "Joe Abercrombie"
