@@ -22,8 +22,9 @@ Filter books by rating:
 
 [![La caída de los gigantes (The Century 1)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D3zhv1DcM51kC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/12 "La caída de los gigantes (The Century 1) by Ken Follett")
 
-### ✅ Completed (1)
+### ✅ Completed (2)
 
+[![Viento y verdad (El Archivo de las Tormentas 5)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DgWEnEQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/20 "Viento y verdad (El Archivo de las Tormentas 5) by Brandon Sanderson completed in 1 minute on July 2025")
 [![The Way of Kings](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dd-nv9nnEnVwC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/15 "The Way of Kings by Brandon Sanderson completed in 43 seconds on July 2025")
 
 <!--end:bookshelf-action-->

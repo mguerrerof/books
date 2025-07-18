@@ -1,5 +1,35 @@
 [
   {
+    "title": "Viento y verdad (El Archivo de las Tormentas 5)",
+    "authors": [
+      "Brandon Sanderson"
+    ],
+    "publisher": "NOVA",
+    "publishedDate": "2024-12-09",
+    "description": "La esperada y explosiva conclusión del primer arco de la saga El Archivo de las Tormentas, obra cumbre de Brandon Sanderson, con más de diez millones de lectores en todo el mundo. Dalinar Kholin desafió al malvado dios Odium a un duelo de campeones en el que se decidirá el futuro de Roshar. Los Caballeros Radiantes solo tienen diez días para prepararse... y la repentina ascensión del taimado e implacable Taravangian al puesto de Odium lo ha sumido todo en una tremenda confusión. La lucha desesperada prosigue simultáneamente a lo largo y ancho del mundo: Adolin en Azimir, Sigzil y Venli en las Llanuras Quebradas y Jasnah en Ciudad Thaylen. El exasesino Seth deberá purgar Shinovar, su tierra natal, de la oscura influencia de los Deshechos. Lo acompaña Kaladin, que afronta una nueva batalla ayudando a Seth a combatir sus propios demonios... y tendrá que hacer lo mismo con Ishar, el demente Heraldo del Todopoderoso. Al mismo tiempo, Shallan, Renarin y Rlain se esfuerzan en desentrañar el misterio que hay tras la Deshecha Ba-Ado-Mishram, el de qué papel tuvo en la esclavización de la especie cantora y en el hecho de que los antiguos Caballeros Radiantes mataran a sus spren. Y Dalinar y Navani buscan una ventaja contra el campeón de Odium que solo puede hallarse en el Reino Espiritual, donde el recuerdo y la posibilidad se combinan en el caos. El destino de todo el Cosmere pende de un hilo. Sobre El Archivo de las Tormentas: «Me encantó este libro... ¿Qué más puedo decir?». Patrick Rothfuss sobre El camino de los reyes «Brandon Sanderson es una leyenda». Alexelcapo, @EvilAFM",
+    "image": "http://books.google.com/books/content?id=gWEnEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "es",
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 2191,
+    "isbn10": "841926055X",
+    "isbn13": "9788419260550",
+    "googleBooks": {
+      "id": "gWEnEQAAQBAJ",
+      "preview": "http://books.google.com/books?id=gWEnEQAAQBAJ&printsec=frontcover&dq=intitle:Viento+y+verdad+(El+Archivo+de+las+Tormentas+5)&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=gWEnEQAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=gWEnEQAAQBAJ"
+    },
+    "issueNumber": 20,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-07-18T08:37:57.000Z",
+    "completedAt": "2025-07-18T08:39:06.000Z",
+    "timeToComplete": 69000,
+    "timeToCompleteFormatted": "1 minute"
+  },
+  {
     "title": "The Way of Kings",
     "authors": [
       "Brandon Sanderson"
