@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "title": "Caperucita Roja",
+    "authors": [
+      "Jacob Grimm",
+      "Wilhelm Grimm"
+    ],
+    "publisher": "Libresa",
+    "publishedDate": "1963",
+    "image": "http://books.google.com/books/content?id=o3l3YONbVSMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "es",
+    "averageRating": 3.5,
+    "ratingsCount": 8,
+    "pageCount": 28,
+    "isbn10": "9978803025",
+    "isbn13": "9789978803028",
+    "googleBooks": {
+      "id": "o3l3YONbVSMC",
+      "preview": "http://books.google.com/books?id=o3l3YONbVSMC&printsec=frontcover&dq=intitle:Caperucita+roja&hl=&cd=7&source=gbs_api",
+      "info": "http://books.google.com/books?id=o3l3YONbVSMC&dq=intitle:Caperucita+roja&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Caperucita_Roja.html?hl=&id=o3l3YONbVSMC"
+    },
+    "issueNumber": 11,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2025-07-18T07:58:48.000Z"
+  }
+]
