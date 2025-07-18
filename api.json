@@ -1,5 +1,37 @@
 [
   {
+    "title": "Trenza del mar Esmeralda",
+    "authors": [
+      "Brandon Sanderson"
+    ],
+    "publisher": "NOVA",
+    "publishedDate": "2023-01-19",
+    "description": "Vuelve al universo del Cosmere con una aventura divertida y cautivadora que encantará a los fans de La princesa prometida . En su isla natal sobre un océano verde esmeralda, la única vida que Trenza conoce es sencilla, marcada por el placer de coleccionar las tazas que traen los marineros de tierras lejanas y escuchar las historias que le cuenta su amigo Charlie. Pero cuando el padre de Charlie se lo lleva en barco para buscarle esposa y sucede una catástrofe, Trenza deberá colarse como polizona en un barco y partir en busca de la hechicera que habita en el mortífero mar de Medianoche. Sobre unos océanos de esporas repletos de piratas, ¿podrá Trenza abandonar su tranquila vida y crearse un lugar en un océano donde una sola gota puede significar la muerte instantánea?",
+    "image": "http://books.google.com/books/content?id=hWSmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "es",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 508,
+    "isbn10": "8418037822",
+    "isbn13": "9788418037825",
+    "googleBooks": {
+      "id": "hWSmEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=hWSmEAAAQBAJ&pg=PP1&dq=intitle:Trenza+del+mar+esmeralda&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=hWSmEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=hWSmEAAAQBAJ"
+    },
+    "issueNumber": 28,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-07-18T15:44:44.000Z",
+    "completedAt": "2025-07-18T15:45:23.000Z",
+    "timeToComplete": 39000,
+    "timeToCompleteFormatted": "39 seconds"
+  },
+  {
     "title": "El Ritmo de la Guerra (El Archivo de las Tormentas 4)",
     "authors": [
       "Brandon Sanderson"
