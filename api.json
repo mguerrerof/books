@@ -1,5 +1,35 @@
 [
   {
+    "title": "Yumi y el pintor de pesadillas",
+    "authors": [
+      "Brandon Sanderson"
+    ],
+    "publisher": "NOVA",
+    "publishedDate": "2023-07-20",
+    "description": "Brandon Sanderson añade a su universo del Cosmere (compartido por las sagas Nacidos de la Bruma y El Archivo de las Tormentas) una nueva novela independiente que hará las delicias de los aficionados a la cultura popular asiática. Yumi viene de una tierra de jardines, meditación y espíritus, mientras que Pintor vive en un mundo de oscuridad, tecnología y pesadillas. Cuando de pronto sus vidas se ven extrañamente entrelazadas, ¿podrán dejar de lado sus diferencias y colaborar para descubrir los misterios de su situación y salvar sus respectivas comunidades de un desastre seguro? Nota de Brandon: «Llevaba años queriendo escribir una novela de fantasía protagonizada por personas que hacen trabajos normales para ellas, pero fantásticos para nosotros como lectores. Además, mi esposa me animó a añadir más romanticismo a mis historias. Cuando junté a dos personas cuyo trabajo le parece fantástico al otro, nació el relato de Yumi y el pintor de pesadillas. Esta novela en particular fue un regalo especial para mi esposa, regalo que ambos estamos encantados de compartir ahora con vosotros.»",
+    "image": "http://books.google.com/books/content?id=DDHFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "es",
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 493,
+    "isbn10": "8419260037",
+    "isbn13": "9788419260031",
+    "googleBooks": {
+      "id": "DDHFEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=DDHFEAAAQBAJ&pg=PT13&dq=intitle:yumi+y+el+cazador+de+pesadillas&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=DDHFEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=DDHFEAAAQBAJ"
+    },
+    "issueNumber": 31,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-07-18T15:48:42.000Z",
+    "completedAt": "2025-07-18T15:49:43.000Z",
+    "timeToComplete": 61000,
+    "timeToCompleteFormatted": "1 minute"
+  },
+  {
     "title": "Trenza del mar Esmeralda",
     "authors": [
       "Brandon Sanderson"
