@@ -20,8 +20,9 @@ Rating:
 
 [![La caída de los gigantes (The Century 1)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D3zhv1DcM51kC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/12 "La caída de los gigantes (The Century 1) by Ken Follett")
 
-### ✅ Completed (11)
+### ✅ Completed (12)
 
+[![El último argumento de los reyes [Edición ilustrada]](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DCqnYEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/39 "El último argumento de los reyes [Edición ilustrada] by Joe Abercrombie completed in 2 minutes on July 2025")
 [![Antes de que los cuelguen [Edición ilustrada]](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DmK2TEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/38 "Antes de que los cuelguen [Edición ilustrada] by Joe Abercrombie completed in 2 minutes on July 2025")
 [![La voz de las espadas [Edición ilustrada]](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DQN1GEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/36 "La voz de las espadas [Edición ilustrada] by Joe Abercrombie completed in 1 minute on July 2025")
 [![La armadura de la luz (Saga Los pilares de la Tierra 4)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dtae_EAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/35 "La armadura de la luz (Saga Los pilares de la Tierra 4) by Ken Follett completed in 1 minute on July 2025")

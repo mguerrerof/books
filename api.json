@@ -1,5 +1,35 @@
 [
   {
+    "title": "El último argumento de los reyes [Edición ilustrada]",
+    "authors": [
+      "Joe Abercrombie"
+    ],
+    "publisher": "Alianza Editorial",
+    "publishedDate": "2023-11-23",
+    "description": "Con la edición ilustrada, en este caso a cargo del extraordinario Fran Vegas, de El último argumento de los reyes completamos la trilogía de La Primera Ley, una obra apasionante de la fantasía que ahora está disponible en el texto revisado por Manu Viciano y acompañado de las ilustraciones de artistas como Alejandro Colucci (La voz de las espadas), David Benzal (Antes de que los cuelguen) y Fran Vegas (El último argumento de los reyes).",
+    "image": "http://books.google.com/books/content?id=CqnYEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "es",
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 843,
+    "isbn10": "8411484769",
+    "isbn13": "9788411484763",
+    "googleBooks": {
+      "id": "CqnYEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=CqnYEAAAQBAJ&pg=PT449&dq=intitle:El+%C3%BAltimo+argumento+de+los+reyes+%5BEdici%C3%B3n+ilustrada%5D&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=CqnYEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=CqnYEAAAQBAJ"
+    },
+    "issueNumber": 39,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2025-07-18T20:30:33.000Z",
+    "completedAt": "2025-07-18T20:32:54.000Z",
+    "timeToComplete": 141000,
+    "timeToCompleteFormatted": "2 minutes"
+  },
+  {
     "title": "Antes de que los cuelguen [Edición ilustrada]",
     "authors": [
       "Joe Abercrombie"
