@@ -18,9 +18,6 @@ Filter books by rating:
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (1)
-
-[![Caperucita Roja](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Do3l3YONbVSMC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/11 "Caperucita Roja by Jacob Grimm, Wilhelm Grimm")
 
 <!--end:bookshelf-action-->
 
