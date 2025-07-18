@@ -23,8 +23,11 @@
     },
     "issueNumber": 25,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-07-18T15:35:41.000Z"
+    "state": "completed",
+    "startedAt": "2025-07-18T15:35:41.000Z",
+    "completedAt": "2025-07-18T15:39:26.000Z",
+    "timeToComplete": 225000,
+    "timeToCompleteFormatted": "3 minutes"
   },
   {
     "title": "El camino de los reyes (El Archivo de las Tormentas 1)",
