@@ -37,8 +37,9 @@ Rating:
 [![El camino de los reyes (El Archivo de las Tormentas 1)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DYhCYCgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/22 "El camino de los reyes (El Archivo de las Tormentas 1) by Brandon Sanderson completed in 54 seconds on July 2025")
 [![Viento y verdad (El Archivo de las Tormentas 5)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DgWEnEQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/20 "Viento y verdad (El Archivo de las Tormentas 5) by Brandon Sanderson completed in 1 minute on July 2025")
 
-### ⏭️ Want to Read (1)
+### ⏭️ Want to Read (2)
 
+[![Aprendiz de asesino](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DRfRnEQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/43 "Aprendiz de asesino by Robin Hobb completed in undefined on Invalid Date")
 [![The Devils](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D8_QRzwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/21 "The Devils by Joe Abercrombie completed in undefined on Invalid Date")
 
 <!--end:bookshelf-action-->
