@@ -16,6 +16,10 @@ Rating:
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
+### ⌛ Currently reading (1)
+
+[![El Ciclo de la Puerta de la Muerte no 05/07 La mano del caos](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DWtkyEQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/44 "El Ciclo de la Puerta de la Muerte no 05/07 La mano del caos by Margaret Weis / Tracy Hickman")
+
 ### ✅ Completed (15)
 
 [![La caída de los gigantes (The Century 1)](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D3zhv1DcM51kC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/12 "La caída de los gigantes (The Century 1) by Ken Follett completed in 1 week on July 2025")
