@@ -23,8 +23,11 @@
     },
     "issueNumber": 44,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-08-06T14:54:51.000Z"
+    "state": "completed",
+    "startedAt": "2025-08-06T14:54:51.000Z",
+    "completedAt": "2025-08-09T21:58:48.000Z",
+    "timeToComplete": 284637000,
+    "timeToCompleteFormatted": "3 days"
   },
   {
     "title": "La caída de los gigantes (The Century 1)",
