@@ -16,6 +16,10 @@ Rating:
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
+### ⌛ Currently reading (1)
+
+[![El Ciclo de la Puerta de la Muerte no 06/07 En el Laberinto](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D6TRBEQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/45 "El Ciclo de la Puerta de la Muerte no 06/07 En el Laberinto by Margaret Weis / Tracy Hickman")
+
 ### ✅ Completed (16)
 
 [![El Ciclo de la Puerta de la Muerte no 05/07 La mano del caos](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DWtkyEQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/mguerrerof/books/issues/44 "El Ciclo de la Puerta de la Muerte no 05/07 La mano del caos by Margaret Weis / Tracy Hickman completed in 3 days on August 2025")
