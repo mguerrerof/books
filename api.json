@@ -23,8 +23,11 @@
     },
     "issueNumber": 45,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-08-15T11:21:51.000Z"
+    "state": "completed",
+    "startedAt": "2025-08-15T11:21:51.000Z",
+    "completedAt": "2025-11-06T23:00:53.000Z",
+    "timeToComplete": 7213142000,
+    "timeToCompleteFormatted": "2 months"
   },
   {
     "title": "El Ciclo de la Puerta de la Muerte no 05/07 La mano del caos",
