@@ -23,8 +23,11 @@
     },
     "issueNumber": 46,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2025-11-06T23:04:48.000Z"
+    "state": "completed",
+    "startedAt": "2025-11-06T23:04:48.000Z",
+    "completedAt": "2026-03-23T20:23:46.000Z",
+    "timeToComplete": 11827138000,
+    "timeToCompleteFormatted": "4 months"
   },
   {
     "title": "El Ciclo de la Puerta de la Muerte no 06/07 En el Laberinto",
